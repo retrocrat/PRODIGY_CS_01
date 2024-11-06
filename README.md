@@ -53,3 +53,13 @@ def main():
 if __name__ == "__main__":
     main()
  ```   
+
+### How to Run
+
+To run this script, follow these steps:
+
+1. Save the Python code in a file named `caesar.py`.
+2. Open a command prompt and navigate to the directory where you saved the file.
+3. Run the script by typing `python caesar.py`, then follow the prompts.
+
+Try experimenting with different messages and shift values!
