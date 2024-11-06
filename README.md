@@ -17,7 +17,7 @@ The Caesar Cipher is one of the earliest and simplest encryption methods, named 
 ### Code
 
 Here is the Python code for the Caesar Cipher:
-
+```
 def caesar_cipher(message, shift_value, action='encrypt'):
     result_text = ""
     shift_value = shift_value if action == 'encrypt' else -shift_value
@@ -52,4 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+ ```   
